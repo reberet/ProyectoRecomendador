@@ -1,0 +1,14 @@
+C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\bin\Debug\net10.0\ProyectoRecomendador.exe
+C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\bin\Debug\net10.0\ProyectoRecomendador.deps.json
+C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\bin\Debug\net10.0\ProyectoRecomendador.runtimeconfig.json
+C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\bin\Debug\net10.0\ProyectoRecomendador.dll
+C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\bin\Debug\net10.0\ProyectoRecomendador.pdb
+C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\obj\Debug\net10.0\ProyectoRecomendador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\obj\Debug\net10.0\ProyectoRecomendador.AssemblyInfoInputs.cache
+C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\obj\Debug\net10.0\ProyectoRecomendador.AssemblyInfo.cs
+C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\obj\Debug\net10.0\ProyectoRecomendador.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\obj\Debug\net10.0\ProyectoRecomendador.dll
+C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\obj\Debug\net10.0\refint\ProyectoRecomendador.dll
+C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\obj\Debug\net10.0\ProyectoRecomendador.pdb
+C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\obj\Debug\net10.0\ProyectoRecomendador.genruntimeconfig.cache
+C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\obj\Debug\net10.0\ref\ProyectoRecomendador.dll
