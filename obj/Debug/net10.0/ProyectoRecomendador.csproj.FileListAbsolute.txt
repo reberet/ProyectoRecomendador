@@ -12,3 +12,4 @@ C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\obj
 C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\obj\Debug\net10.0\ProyectoRecomendador.pdb
 C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\obj\Debug\net10.0\ProyectoRecomendador.genruntimeconfig.cache
 C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\obj\Debug\net10.0\ref\ProyectoRecomendador.dll
+C:\Users\renzo\Desktop\prog2_2026\Proyecto-Recomendador\ProyectoRecomendador\obj\Debug\net10.0\ProyectoRecomendador.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoRecomendador")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+397457c7e968e20bea45909599b3bed4336a8377")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00555485b5f1f7d2783dbf04335673643949d62c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoRecomendador")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoRecomendador")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
