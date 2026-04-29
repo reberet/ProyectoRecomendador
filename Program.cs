@@ -24,8 +24,8 @@ List<IRecomendable> canciones = new List<IRecomendable>
     new Cancion { Id = 2, Nombre = "Rock nuevo", Artista = "Banda B", Atributos = new() { "rock" } },
     new Cancion { Id = 3, Nombre = "Clásica", Artista = "Banda C", Atributos = new() { "clasica" } },
     new Cancion { Id = 4, Nombre = "Pop moderno", Artista = "Banda D", Atributos = new() { "pop" } },
-    new Cancion { Id = 5, Nombre = "Rap fuerte", Artista = "Artista X", Atributos = new() { "rap" } },
-    new Cancion { Id = 6, Nombre = "Grunge clásico", Artista = "Nirvana", Atributos = new() { "grunge" } }
+    new Cancion { Id = 5, Nombre = "Rap", Artista = "Ardo440", Atributos = new() { "rap" } },
+    new Cancion { Id = 6, Nombre = "Grunge", Artista = "Nirvana", Atributos = new() { "grunge" } }
 };
 
 Recomendador recomendador = new Recomendador();
